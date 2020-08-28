@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b8083d61aebdd7a5cbba7187baaf462",
+    "revision": "c111a9a2570b043310e2b3bb183e2ab1",
     "url": "/travelwaale2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelwaale2/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "42b1b5aa4ce25681016a",
+    "revision": "949ca251fef16486764b",
     "url": "/travelwaale2/static/css/main.8210aa3b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelwaale2/static/js/2.c41bbf8d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42b1b5aa4ce25681016a",
-    "url": "/travelwaale2/static/js/main.0fd50b2a.chunk.js"
+    "revision": "949ca251fef16486764b",
+    "url": "/travelwaale2/static/js/main.05d5b95b.chunk.js"
   },
   {
     "revision": "81e94c006034b8ead88a",
@@ -32,28 +32,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelwaale2/static/media/about.12ed9d29.svg"
   },
   {
-    "revision": "b2d9c9278eba229985afca49a3abc80d",
-    "url": "/travelwaale2/static/media/banglore.b2d9c927.jpg"
+    "revision": "f3a1f986070d9765a8462b51dfd4a0da",
+    "url": "/travelwaale2/static/media/banglore.f3a1f986.jpg"
   },
   {
-    "revision": "05f7b0a35fd1538b5a7db2e0b76d5f4e",
-    "url": "/travelwaale2/static/media/dubai.05f7b0a3.jpg"
+    "revision": "43d69d48a90048611e8e84a0e2b339c2",
+    "url": "/travelwaale2/static/media/dubai.43d69d48.jpg"
   },
   {
-    "revision": "0e2275950049921b4986c75b71f68151",
-    "url": "/travelwaale2/static/media/france.0e227595.jpg"
+    "revision": "ceef4917df14fb1e1d4f4b3d4444f7dd",
+    "url": "/travelwaale2/static/media/france.ceef4917.jpg"
   },
   {
-    "revision": "d619a9b535b2b944d3933c60ce0b4529",
-    "url": "/travelwaale2/static/media/germany.d619a9b5.jpg"
+    "revision": "2709cd4944e5359f2ade148023293f2d",
+    "url": "/travelwaale2/static/media/germany.2709cd49.jpg"
   },
   {
-    "revision": "6e419e3f791ad122364bfa00a330880a",
-    "url": "/travelwaale2/static/media/japan.6e419e3f.jpg"
+    "revision": "262605d6207c763dabc4431f1c6dbc3a",
+    "url": "/travelwaale2/static/media/japan.262605d6.jpg"
   },
   {
-    "revision": "8afbc613308e83ac3022493bb92d6d1e",
-    "url": "/travelwaale2/static/media/rajasthan.8afbc613.jpg"
+    "revision": "20e67cd91cd83aa0567aeaed970252d5",
+    "url": "/travelwaale2/static/media/rajasthan.20e67cd9.jpg"
   },
   {
     "revision": "0317a73ac9e0b03e176fb9b46aee3078",

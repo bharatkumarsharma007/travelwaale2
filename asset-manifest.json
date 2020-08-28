@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/travelwaale2/static/css/main.8210aa3b.chunk.css",
-    "main.js": "/travelwaale2/static/js/main.0fd50b2a.chunk.js",
-    "main.js.map": "/travelwaale2/static/js/main.0fd50b2a.chunk.js.map",
+    "main.js": "/travelwaale2/static/js/main.05d5b95b.chunk.js",
+    "main.js.map": "/travelwaale2/static/js/main.05d5b95b.chunk.js.map",
     "runtime-main.js": "/travelwaale2/static/js/runtime-main.f95506e5.js",
     "runtime-main.js.map": "/travelwaale2/static/js/runtime-main.f95506e5.js.map",
     "static/css/2.75c4ecca.chunk.css": "/travelwaale2/static/css/2.75c4ecca.chunk.css",
     "static/js/2.c41bbf8d.chunk.js": "/travelwaale2/static/js/2.c41bbf8d.chunk.js",
     "static/js/2.c41bbf8d.chunk.js.map": "/travelwaale2/static/js/2.c41bbf8d.chunk.js.map",
     "index.html": "/travelwaale2/index.html",
-    "precache-manifest.005ad027b93eaf2b802617afe04b2f93.js": "/travelwaale2/precache-manifest.005ad027b93eaf2b802617afe04b2f93.js",
+    "precache-manifest.c11b61b12f4eb646ba60284aa79e34a5.js": "/travelwaale2/precache-manifest.c11b61b12f4eb646ba60284aa79e34a5.js",
     "service-worker.js": "/travelwaale2/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/travelwaale2/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.8210aa3b.chunk.css.map": "/travelwaale2/static/css/main.8210aa3b.chunk.css.map",
     "static/js/2.c41bbf8d.chunk.js.LICENSE.txt": "/travelwaale2/static/js/2.c41bbf8d.chunk.js.LICENSE.txt",
     "static/media/about.svg": "/travelwaale2/static/media/about.12ed9d29.svg",
-    "static/media/banglore.jpg": "/travelwaale2/static/media/banglore.b2d9c927.jpg",
-    "static/media/dubai.jpg": "/travelwaale2/static/media/dubai.05f7b0a3.jpg",
-    "static/media/france.jpg": "/travelwaale2/static/media/france.0e227595.jpg",
-    "static/media/germany.jpg": "/travelwaale2/static/media/germany.d619a9b5.jpg",
-    "static/media/japan.jpg": "/travelwaale2/static/media/japan.6e419e3f.jpg",
-    "static/media/rajasthan.jpg": "/travelwaale2/static/media/rajasthan.8afbc613.jpg",
+    "static/media/banglore.jpg": "/travelwaale2/static/media/banglore.f3a1f986.jpg",
+    "static/media/dubai.jpg": "/travelwaale2/static/media/dubai.43d69d48.jpg",
+    "static/media/france.jpg": "/travelwaale2/static/media/france.ceef4917.jpg",
+    "static/media/germany.jpg": "/travelwaale2/static/media/germany.2709cd49.jpg",
+    "static/media/japan.jpg": "/travelwaale2/static/media/japan.262605d6.jpg",
+    "static/media/rajasthan.jpg": "/travelwaale2/static/media/rajasthan.20e67cd9.jpg",
     "static/media/travelwaalehome.svg": "/travelwaale2/static/media/travelwaalehome.0317a73a.svg"
   },
   "entrypoints": [
@@ -28,6 +28,6 @@
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.c41bbf8d.chunk.js",
     "static/css/main.8210aa3b.chunk.css",
-    "static/js/main.0fd50b2a.chunk.js"
+    "static/js/main.05d5b95b.chunk.js"
   ]
 }
