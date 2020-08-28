@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "370323e66f1b00ad4c6f7d5e97782f50",
+    "revision": "8b8083d61aebdd7a5cbba7187baaf462",
     "url": "/travelwaale2/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelwaale2/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "e633819137132f4df742",
-    "url": "/travelwaale2/static/css/main.5ce0df41.chunk.css"
+    "revision": "42b1b5aa4ce25681016a",
+    "url": "/travelwaale2/static/css/main.8210aa3b.chunk.css"
   },
   {
     "revision": "075cc3bd0ee4215b5987",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travelwaale2/static/js/2.c41bbf8d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e633819137132f4df742",
-    "url": "/travelwaale2/static/js/main.47dfa4b2.chunk.js"
+    "revision": "42b1b5aa4ce25681016a",
+    "url": "/travelwaale2/static/js/main.0fd50b2a.chunk.js"
   },
   {
     "revision": "81e94c006034b8ead88a",
