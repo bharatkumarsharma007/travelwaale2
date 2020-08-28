@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/travelwaale/static/css/main.5ce0df41.chunk.css",
+    "main.js": "/travelwaale/static/js/main.2e86aa34.chunk.js",
+    "main.js.map": "/travelwaale/static/js/main.2e86aa34.chunk.js.map",
+    "runtime-main.js": "/travelwaale/static/js/runtime-main.1816f3eb.js",
+    "runtime-main.js.map": "/travelwaale/static/js/runtime-main.1816f3eb.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/travelwaale/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c41bbf8d.chunk.js": "/travelwaale/static/js/2.c41bbf8d.chunk.js",
+    "static/js/2.c41bbf8d.chunk.js.map": "/travelwaale/static/js/2.c41bbf8d.chunk.js.map",
+    "index.html": "/travelwaale/index.html",
+    "precache-manifest.09646833d288aed7c7e45cae444ad10c.js": "/travelwaale/precache-manifest.09646833d288aed7c7e45cae444ad10c.js",
+    "service-worker.js": "/travelwaale/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/travelwaale/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.5ce0df41.chunk.css.map": "/travelwaale/static/css/main.5ce0df41.chunk.css.map",
+    "static/js/2.c41bbf8d.chunk.js.LICENSE.txt": "/travelwaale/static/js/2.c41bbf8d.chunk.js.LICENSE.txt",
+    "static/media/about.svg": "/travelwaale/static/media/about.12ed9d29.svg",
+    "static/media/banglore.jpg": "/travelwaale/static/media/banglore.b2d9c927.jpg",
+    "static/media/dubai.jpg": "/travelwaale/static/media/dubai.05f7b0a3.jpg",
+    "static/media/france.jpg": "/travelwaale/static/media/france.0e227595.jpg",
+    "static/media/germany.jpg": "/travelwaale/static/media/germany.d619a9b5.jpg",
+    "static/media/japan.jpg": "/travelwaale/static/media/japan.6e419e3f.jpg",
+    "static/media/rajasthan.jpg": "/travelwaale/static/media/rajasthan.8afbc613.jpg",
+    "static/media/travelwaalehome.svg": "/travelwaale/static/media/travelwaalehome.0317a73a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1816f3eb.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c41bbf8d.chunk.js",
+    "static/css/main.5ce0df41.chunk.css",
+    "static/js/main.2e86aa34.chunk.js"
+  ]
+}
